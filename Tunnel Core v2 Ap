@@ -1,12 +1,15 @@
 {
-"newVersion": "1.6",
-"apkUrl": "https://download1477.mediafire.com/5mw5a8po4cqg/vvgmawogpb3texh/Tunnel+Core.apk",
+"newVersion": "1.7",
+"apkUrl": "https://download1348.mediafire.com/4to70oxv7pcg/ea6g9vmervqm8ei/app-arm64-v8a-release.apk",
 "versionNotes":"•Tunnel Core v2•
+
+-Clear Data first before update app
 -What's New?
--Speed Testing
--Unlimited Time
--Fix No Load Browse
--Fixing No load timer
--Support all device
+-Converted Androidx 
+-SDK 30
+-Smooth And Clean
+-Adjust AdsPop
+-Less Ads
+-Adjust claim coins to support our app
 -For more features please feedback "
 }
