@@ -1,10 +1,10 @@
 {
-
+"newVersion": "1.6",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
 •Tunnel Core v2•
--Fix Add Timer
--Fix Bug 
--Smooth Response
+• Fixed Add Coins
+• Optimize UI
+• Supported Android 5 & above
 "
 }
