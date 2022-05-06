@@ -2,8 +2,8 @@
 "newVersion": "1.1.10",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
-° Fixed SSL + Payload
-° Fixed Import Export
-° Added WebView
+- Fixed Vivo Phone 
+- Fixed Import Export
+- Supported 5 to Up Android Device
 "
 }
