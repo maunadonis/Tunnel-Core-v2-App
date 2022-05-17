@@ -1,9 +1,9 @@
 {
-
+"newVersion": "1.1.13",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
-- Fixed Vivo Phone 
-- Fixed Import Export
-- Fixed SSL + Payload
+- Added Security Application
+- Fixed No Browse
+- Timer Renew Adjust
 "
 }
