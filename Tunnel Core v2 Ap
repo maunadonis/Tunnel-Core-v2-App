@@ -1,8 +1,9 @@
 {
+"newVersion": "1.1.17",
 "apkUrl": "https://play.google.com/store/apps/details?id=org.tunnelcore.alz",
 "versionNotes":"
-- Added Security Application
+- 10 Default coins
 - Fixed No Browse
-- Timer Renew Adjust
+- Time Renew Adjust to 3 hours
 "
 }
